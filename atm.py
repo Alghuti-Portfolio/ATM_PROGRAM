@@ -73,3 +73,10 @@ def run():
     print(
         f"Thank you for your {action}. Your adjusted balance is ${account['balance']: .2f}."
     )
+
+    # @TODO: As a bonus, try writing the adjusted account balance back to the CSV file.
+
+
+# Entry point for the application. Initiates the run() function.
+if __name__ == "__main__":
+    fire.Fire(run)
