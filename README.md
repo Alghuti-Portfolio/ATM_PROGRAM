@@ -1,4 +1,4 @@
-# atm_program
+# ATM_PROGRAM
 
 system.
 
